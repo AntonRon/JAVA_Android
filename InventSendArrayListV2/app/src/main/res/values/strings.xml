@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventSendArrayListV2</string>
+    <string name="positiveButton">OK</string>
+    <string name="sum">Введите сумму</string>
+</resources>
