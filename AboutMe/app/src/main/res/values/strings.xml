@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_name">Ronzhin Anton</string>
+    <string name="e_mail">EMail</string>
+    <string name="date1">antonfm@outlook.com</string>
+    <string name="date2">JAVA Core</string>
+    <string name="date3">IntelliJ IDEA</string>
+    <string name="date4">SQLite</string>
+    <string name="date5">Experience</string>
+</resources>
