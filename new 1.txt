@@ -1,0 +1,2 @@
+Log.d.("TAG","message: "+"Test);
+finish();
