@@ -1,2 +1,3 @@
 Log.d.("TAG","message: "+"Test);
 finish();
+final static String EXTRA_DATA="sum";
