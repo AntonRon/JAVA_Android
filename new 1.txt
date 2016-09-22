@@ -1,2 +1,2 @@
-Log.d.("TAG","message: "+"Test");
+Log.d.("TAG","message: "+"Test);
 finish();
